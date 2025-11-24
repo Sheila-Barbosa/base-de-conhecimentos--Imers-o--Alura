@@ -1,0 +1,436 @@
+[
+    {
+            "nome": "Bulbasaur",
+            "tipo": "Planta",
+            "regiao": "Kanto",
+            "descricao": "Bulbasaur é um Pokémon semente e pode ser visto tirando uma soneca ao sol. A semente de suas costas cresce cada vez mais a medida que absorve os raios  solares.",
+            "tags": [
+                "planta",
+                "veneno",
+                "grama",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Charmander",
+            "tipo": "Fogo",
+            "regiao": "Kanto",
+            "descricao": "É um Pokémon Lagarto. A chama que queima na ponta da sua cauda é um indicador de suas emoções. A Chama oscila quando Charmander está contente. Se o Pokémon fica com raiva, a chama queima violentamente.",
+            "tags": [
+                "fogo",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Squirtle",
+            "tipo": "Água",
+            "regiao": "Kanto",
+            "descricao": "Squirtle é um Pokémon tartaruga. Quando ele se sente ameaçado, ele se retrai para dentro de sua concha, onde pode usar seus poderes de água para atacar de forma eficaz.",
+            "tags": [
+                "água",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Pikachu",
+            "tipo": "Elétrico",
+            "regiao": "Kanto",
+            "descricao": "Pikachu, o Pokémon Rato, é um Pokémon elétrico. Ele armazena eletricidade em suas bochechas e libera-a em ataques poderosos. Pikachu é conhecido por sua natureza amigável e leal.",
+            "tags": [
+                "elétrico",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Jigglypuff",
+            "tipo": "Normal/Fada",
+            "regiao": "Kanto",
+            "descricao": "Jigglypuff é um Pokémon Balão. Ele usa sua habilidade de cantar para colocar os oponentes para dormir, tornando-os vulneráveis a ataques subsequentes.",
+            "tags": [
+                "normal",
+                "fada",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Meowth",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Meowth é um Pokémon Gato. Ele é conhecido por sua habilidade de andar em duas patas e por sua obsessão por moedas brilhantes.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Psyduck",
+            "tipo": "Água",
+            "regiao": "Kanto",
+            "descricao": "Psyduck é um Pokémon Pato. Ele sofre de dores de cabeça constantes, que podem desencadear seus poderes psíquicos quando se tornam intensas.",
+            "tags": [
+                "água",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Machop",
+            "tipo": "Lutador",
+            "regiao": "Kanto",
+            "descricao": "Machop é um Pokémon Superpoder. Ele é incrivelmente forte e treina constantemente para aumentar sua força física.",
+            "tags": [
+                "lutador",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Geodude",
+            "tipo": "Pedra/Terra",
+            "regiao": "Kanto",
+            "descricao": "Geodude é um Pokémon Rocha. Ele é conhecido por sua dureza e resistência, frequentemente encontrado em áreas rochosas e montanhosas.",
+            "tags": [
+                "pedra",
+                "terra",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Eevee",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Eevee é um Pokémon Evolução. Ele é conhecido por sua capacidade de evoluir para várias formas diferentes, dependendo das condições ambientais e dos itens usados.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Snorlax",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Snorlax é um Pokémon Preguiça. Ele passa a maior parte do tempo dormindo e só acorda para comer. Sua enorme massa corporal o torna um adversário formidável.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Mewtwo",
+            "tipo": "Psíquico",
+            "regiao": "Kanto",
+            "descricao": "Mewtwo é um Pokémon Genético. Ele foi criado a partir do DNA de Mew e é conhecido por sua incrível inteligência e poderes psíquicos.",
+            "tags": [
+                "psíquico",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Mew",
+            "tipo": "Psíquico",
+            "regiao": "Kanto",
+            "descricao": "Mew é um Pokémon Novo. Ele é considerado o ancestral de todos os Pokémon e possui a capacidade de aprender qualquer movimento.",
+            "tags": [
+                "psíquico",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Caterpie",
+            "tipo": "Inseto",
+            "regiao": "Kanto",
+            "descricao": "Caterpie é um Pokémon Lagarta. Ele é conhecido por sua habilidade de se camuflar em folhas e por sua rápida evolução em Metapod.",
+            "tags": [
+                "inseto",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Pidgey",
+            "tipo": "Normal/Voador",
+            "regiao": "Kanto",
+            "descricao": "Pidgey é um Pokémon Pássaro. Ele é conhecido por sua habilidade de voar rapidamente e por sua visão aguçada.",
+            "tags": [
+                "normal",
+                "voador",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Rattata",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Rattata é um Pokémon Rato. Ele é conhecido por sua rapidez e agilidade, frequentemente encontrado em áreas urbanas.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Zubat",
+            "tipo": "Venenoso/Voador",
+            "regiao": "Kanto",
+            "descricao": "Zubat é um Pokémon Morcego. Ele é conhecido por sua habilidade de voar em alta velocidade e por sua ecolocalização.",
+            "tags": [
+                "venenoso",
+                "voador",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Magikarp",
+            "tipo": "Água",
+            "regiao": "Kanto",
+            "descricao": "Magikarp é um Pokémon Peixe. Embora seja conhecido por sua fraqueza e inutilidade em batalha, ele pode evoluir para o poderoso Gyarados.",
+            "tags": [
+                "água",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Ditto",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Ditto é um Pokémon Transformação. Ele tem a habilidade única de se transformar em qualquer outro Pokémon que veja, copiando sua aparência e movimentos.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Lapras",
+            "tipo": "Água/Gelo",
+            "regiao": "Kanto",
+            "descricao": "Lapras é um Pokémon Transporte. Ele é conhecido por sua gentileza e por transportar pessoas através de corpos d'água.",
+            "tags": [
+                "água",
+                "gelo",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Vulpix",
+            "tipo": "Fogo",
+            "regiao": "Kanto",
+            "descricao": "Vulpix é um Pokémon Raposa. Ele possui seis caudas que crescem mais à medida que envelhece, e é conhecido por sua habilidade de controlar o fogo.",
+            "tags": [
+                "fogo",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Abra",
+            "tipo": "Psíquico",
+            "regiao": "Kanto",
+            "descricao": "Abra é um Pokémon Psi. Ele passa a maior parte do tempo dormindo e usa seus poderes psíquicos para se teleportar quando acorda.",
+            "tags": [
+                "psíquico",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Onix",
+            "tipo": "Pedra/Terra",
+            "regiao": "Kanto",
+            "descricao": "Onix é um Pokémon Serpente de Rocha. Ele é conhecido por seu corpo longo e segmentado feito de pedras, e por sua força e resistência excepcionais.",
+            "tags": [
+                "pedra",
+                "terra",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Gengar",
+            "tipo": "Fantasma/Venenoso",
+            "regiao": "Kanto",
+            "descricao": "Gengar é um Pokémon Sombra. Ele é conhecido por sua natureza travessa e por sua habilidade de se esconder nas sombras para pregar peças nos outros.",
+            "tags": [
+                "fantasma",
+                "venenoso",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Scyther",
+            "tipo": "Inseto/Voador",
+            "regiao": "Kanto",
+            "descricao": "Scyther é um Pokémon Mantis. Ele é conhecido por sua velocidade e agilidade, bem como por suas lâminas afiadas que usa para cortar seus oponentes.",
+            "tags": [
+                "inseto",
+                "voador",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Electabuzz",
+            "tipo": "Elétrico",
+            "regiao": "Kanto",
+            "descricao": "Electabuzz é um Pokémon Elétrico. Ele é conhecido por sua habilidade de gerar eletricidade estática em seu corpo, que pode ser liberada em ataques poderosos.",
+            "tags": [
+                "elétrico",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Magmar",
+            "tipo": "Fogo",
+            "regiao": "Kanto",
+            "descricao": "Magmar é um Pokémon Fogo. Ele é conhecido por sua habilidade de controlar o fogo e por sua pele quente que pode derreter metal.",
+            "tags": [
+                "fogo",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Pinsir",
+            "tipo": "Inseto",
+            "regiao": "Kanto",
+            "descricao": "Pinsir é um Pokémon Escorpião. Ele é conhecido por suas poderosas garras que usa para agarrar e esmagar seus oponentes.",
+            "tags": [
+                "inseto",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Tauros",
+            "tipo": "Normal",
+            "regiao": "Kanto",
+            "descricao": "Tauros é um Pokémon Touro. Ele é conhecido por sua força bruta e por sua natureza agressiva, frequentemente entrando em fúria quando provocado.",
+            "tags": [
+                "normal",
+                "kanto"
+            ]
+        },
+        {
+            "nome": "Gyarados",
+            "tipo": "Água/Voador",
+            "regiao": "Kanto",
+            "descricao": "Gyarados é um Pokémon Destruidor. Ele evolui de Magikarp e é conhecido por sua natureza feroz e por sua habilidade de causar destruição em massa com seus ataques poderosos.",
+            "tags": [
+                "água",
+                "voador",
+                "kanto"
+            ]
+        }, 
+        {
+            "nome": "Chikorita",
+            "tipo": "Planta",
+            "regiao": "Johto",
+            "descricao": "Chikorita é um Pokémon Folha. Ele é conhecido por sua natureza calma e por sua habilidade de usar folhas para atacar e defender-se.",
+            "tags": [
+                "planta",
+                "johto"
+            ]
+        }, 
+        {
+            "nome": "Cyndaquil",
+            "tipo": "Fogo",
+            "regiao": "Johto",
+            "descricao": "Cyndaquil é um Pokémon Fogo. Ele é conhecido por sua timidez e por sua habilidade de lançar chamas a partir de suas costas quando se sente ameaçado.",
+            "tags": [
+                "fogo",
+                "johto"
+            ]
+        }, 
+        {
+            "nome": "Totodile",
+            "tipo": "Água",
+            "regiao": "Johto",
+            "descricao": "Totodile é um Pokémon Crocodilo. Ele é conhecido por sua natureza brincalhona e por sua habilidade de usar sua mandíbula poderosa para atacar.",
+            "tags": [
+                "água",
+                "johto"
+            ]
+        },
+        {
+            "nome": "Breloom",
+            "tipo": "Planta",
+            "regiao": "Hoenn",
+            "descricao": "Breloom é um Pokémon Cogumelo. Ele é conhecido por sua combinação única de tipos Planta e Lutador, e por sua habilidade de lançar esporos paralisantes.",
+            "tags": [
+                "planta",
+                "lutador",
+                "hoenn"
+            ]
+        },         
+        {
+            "nome": "Turtwig",
+            "tipo": "Planta",
+            "regiao": "Sinnoh",
+            "descricao": "Turtwig é um Pokémon Folha. Ele é conhecido por sua concha de madeira dura e por sua habilidade de absorver nutrientes do solo para fortalecer-se.",
+            "tags": [
+                "planta",
+                "sinnoh"
+            ]
+        }, 
+        {
+            "nome": "Servine",
+            "tipo": "Planta",
+            "regiao": "Unova",
+            "descricao": "Servine é um Pokémon Serpente. Ele é conhecido por sua agilidade e por sua habilidade de usar vinhas para atacar e capturar seus oponentes.",
+            "tags": [
+                "planta",
+                "unova"
+            ]
+        },
+        {
+            "nome": "Chespin",
+            "tipo": "Planta",
+            "regiao": "Kalos",
+            "descricao": "Chespin é um Pokémon Castor. Ele é conhecido por sua natureza brincalhona e por sua habilidade de usar seus espinhos para se defender de predadores.",
+            "tags": [
+                "planta",
+                "kalos"
+            ]
+        }, 
+        {
+            "nome": "Darktrix",
+            "tipo": "Planta, Voador",
+            "regiao": "Alola",
+            "descricao": "Darktrix é um Pokémon Trevo. Ele é conhecido por sua habilidade de voar silenciosamente e por sua camuflagem eficaz em ambientes naturais.",
+            "tags": [
+                "planta",
+                "voador",
+                "alola"
+            ]
+        }, 
+        {
+            "nome": "Yamper",
+            "tipo": "elétrico",
+            "regiao": "Galar",
+            "descricao": "Yamper é um Pokémon Cão. Ele é conhecido por sua energia contagiante e por sua habilidade de gerar eletricidade estática ao correr.",
+            "tags": [
+                "elétrico",
+                "galar"
+            ]
+        }, 
+        {
+            "nome": "Ursaluna",
+            "tipo": "Terra/Normal",
+            "regiao": "Hisui",
+            "descricao": "Ursaluna é um Pokémon Urso. Ele é conhecido por sua força imensa e por sua habilidade de escavar a terra em busca de alimentos.",
+            "tags": [
+                "terra",
+                "normal",
+                "hisui"
+            ]
+        }, 
+        {
+            "nome": "Crocalor",
+            "tipo": "Fogo",
+            "regiao": "Paldea",
+            "descricao": "Crocalor é um Pokémon Crocodilo. Ele é conhecido por sua pele resistente ao calor e por sua habilidade de nadar em águas quentes.",
+            "tags": [
+                "fogo",
+                "paldea"
+            ]
+        }, 
+        {
+            "nome": "Meltan",
+            "tipo": "Aço",
+            "regiao": "Indefinida",
+            "descricao": "Meltan é um Pokémon Metal. Ele é conhecido por sua composição metálica única e por sua habilidade de se fundir com outros metais para formar objetos.",
+            "tags": [
+                "aço",
+                "indefinida"
+            ]
+        }
+    ]
