@@ -12,8 +12,8 @@
 
 body {
     margin: 0;
-    background: var(--bg-color);
-    background-image: url(src/Sem\ título\ \(2\).png);
+    background-color: var(--bg-color) linear-gradient(135deg, #0FA4C5, #22B8D5, #2BD9F5);
+    background-image: url("src/imagens/Sem\ título\ \(2\).png");
     background-size: cover;
     background-position: center;
 
